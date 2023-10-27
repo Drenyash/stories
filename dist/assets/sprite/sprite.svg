@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style>
+    .sprite-symbol-usage {display: none;}
+    .sprite-symbol-usage:target {display: inline;}
+  </style><symbol viewBox="0 0 24 24" id="icon-arrow">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.29289 5.29289C8.68342 4.90237 9.31658 4.90237 9.70711 5.29289L15.7071 11.2929C16.0976 11.6834 16.0976 12.3166 15.7071 12.7071L9.70711 18.7071C9.31658 19.0976 8.68342 19.0976 8.29289 18.7071C7.90237 18.3166 7.90237 17.6834 8.29289 17.2929L13.5858 12L8.29289 6.70711C7.90237 6.31658 7.90237 5.68342 8.29289 5.29289Z" />
+</symbol><symbol viewBox="0 0 27 27" fill="none" id="icon-close">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.43463 6.43463C6.76413 6.10512 7.29837 6.10512 7.62787 6.43463L13.5 12.3068L19.3721 6.43463C19.7016 6.10512 20.2359 6.10512 20.5654 6.43463C20.8949 6.76413 20.8949 7.29837 20.5654 7.62787L14.6932 13.5L20.5654 19.3721C20.8949 19.7016 20.8949 20.2359 20.5654 20.5654C20.2359 20.8949 19.7016 20.8949 19.3721 20.5654L13.5 14.6932L7.62787 20.5654C7.29837 20.8949 6.76413 20.8949 6.43463 20.5654C6.10512 20.2359 6.10512 19.7016 6.43463 19.3721L12.3068 13.5L6.43463 7.62787C6.10512 7.29837 6.10512 6.76413 6.43463 6.43463Z" fill="#24292E" />
+</symbol></defs><use id="icon-arrow-usage" xlink:href="#icon-arrow" class="sprite-symbol-usage" /><use id="icon-close-usage" xlink:href="#icon-close" class="sprite-symbol-usage" /></svg>
