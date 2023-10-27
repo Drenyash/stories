@@ -1,0 +1,80 @@
+{
+    "stories": [
+        {
+            "id": 0,
+            "name": "Moda",
+            "url": "./assets/images/story-1.jpg",
+            "stories": [
+                {
+                    "type": "video",
+                    "url": "./assets/video/story.mp4",
+                    "duration": ""
+                },
+                {
+                    "type": "video",
+                    "url": "./assets/video/story-2.mp4",
+                    "duration": 10
+                },
+                {
+                    "type": "picture",
+                    "url": "./assets/images/story-1.jpg",
+                    "duration": ""
+                },
+                {
+                    "type": "picture",
+                    "url": "./assets/images/story-1.jpg",
+                    "duration": ""
+                },
+                {
+                    "type": "picture",
+                    "url": "./assets/images/story-1.jpg",
+                    "duration": ""
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Home",
+            "url": "./assets/images/story-2.jpeg",
+            "stories": [
+                {
+                    "type": "video",
+                    "url": "./assets/video/story-2.mp4",
+                    "duration": ""
+                },
+                {
+                    "type": "video",
+                    "url": "./assets/video/story.mp4",
+                    "duration": 10
+                },
+                {
+                    "type": "picture",
+                    "url": "./assets/images/story-2.jpeg",
+                    "duration": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "KAZAHSTAN",
+            "url": "./assets/images/story-2.jpeg",
+            "stories": [
+                {
+                    "type": "video",
+                    "url": "./assets/video/story-2.mp4",
+                    "duration": ""
+                },
+                {
+                    "type": "picture",
+                    "url": "./assets/images/story-2.jpeg",
+                    "duration": 20
+                },
+                {
+                    "type": "video",
+                    "url": "./assets/video/story.mp4",
+                    "duration": ""
+                }
+            ]
+        }
+    ]
+}

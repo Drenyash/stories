@@ -1,0 +1,14 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    min-width: 320px;
+    font-family: $font-main;
+    font-size: 16px;
+    font-weight: 400;
+    color: $dark;
+    background-color: $light;
+    overflow-x: hidden;
+    width: 100vw;
+}

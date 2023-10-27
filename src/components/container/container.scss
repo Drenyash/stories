@@ -1,0 +1,18 @@
+.container {
+    position: relative;
+
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: rem(1560);
+    padding-left: rem(15);
+    padding-right: rem(15);
+
+    @include r($mobile) {
+        max-width: rem(1260);
+    }
+
+    @include r(1229) {
+        padding: 0;
+    }
+}
